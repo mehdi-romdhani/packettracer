@@ -1,0 +1,9 @@
+Port RJ45 Fastethernet 
+
+#Ce qui concerne les chiffres que sont-ils ?
+
+#Pour exemple : FastEthernet 0/1 
+#Le premier chiffre correspond correspond au controleur 0 & le deuxieme chiffre au port 1 
+
+# donc du controleur 0 / le port 1 est la où est branché le cable reseau
+#1/1 controleur 1 port 1 du cable
